@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suhamida
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on this huge network of learning
+- 💞️ I'm looking to collaborate on this huge network of learning
 - 📫 if anything to ask : hamida.cse@gmail.com
 
 <!---
