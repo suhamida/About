@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suhamida
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Laravel and javaScript
 - 💞️ I'm looking to collaborate on this huge network of learning
 - 📫 if you have anything to ask: hamida.cse@gmail.com
 
